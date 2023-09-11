@@ -1,0 +1,57 @@
+.user-form-div {
+  margin: 4rem 0;
+  border-radius: 15px;
+  max-height: fit-content;
+}
+.user-form {
+  display: grid;
+  align-items: center;
+  margin: 1rem 1.5rem;
+}
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 0;
+  background: #f0f0f0;
+}
+.css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 0;
+  background: #f0f0f0;
+}
+
+label.Mui-focused {
+  color: #d2292d !important;
+}
+.css-1wc848c-MuiFormHelperText-root.Mui-error {
+  margin-left: 0;
+}
+.form-btn {
+  width: 100%;
+  display: grid;
+  place-content: center;
+}
+.form-btn button {
+  padding: 0.5rem 3rem;
+  background-color: #d2292d;
+  color: #fff;
+  border-radius: 15px 0;
+  max-width: fit-content;
+  text-transform: none;
+}
+
+.form-btn button:hover {
+  background-color: #fff;
+  color: #d2292d;
+  font-weight: bolder;
+}
+
+@media (max-width: 390px) {
+  .user-form {
+    margin: 14px 4px;
+  }
+  .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 11.5px 6px !important;
+  }
+  .user-form-div h2 {
+    margin-bottom: 1rem !important;
+  }
+}

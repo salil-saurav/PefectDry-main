@@ -1,0 +1,22 @@
+.thankyou {
+  margin-top: 2rem;
+  width: 21rem;
+  background-color: #fff;
+  height: auto;
+  display: grid;
+  align-content: center;
+  place-content: center;
+  border-radius: 16px;
+  box-shadow: 1px 11px 15px 12px;
+}
+
+.thankyou h1 {
+  text-align: center;
+  font-family: Prata;
+  font-size: 34px;
+  margin: 0 1rem;
+  color: #d2292d;
+  border-radius: 15px;
+  background-color: #fff;
+  padding: 2rem 1rem;
+}

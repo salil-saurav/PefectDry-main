@@ -1,0 +1,118 @@
+.swiperDiv .css-1oqqzyl-MuiContainer-root {
+  max-width: 1400px;
+}
+
+.carousel-cards {
+  border-radius: 23px;
+  width: 86%;
+  height: fit-content;
+  background-color: #fff;
+  margin-left: 1.5rem;
+}
+.carousel-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card-body {
+  margin-top: 1rem;
+  padding: 0 1rem;
+  display: grid;
+  place-items: center;
+}
+
+.card-body h5 {
+  margin: 0;
+  font-size: 20px;
+  text-align: center;
+}
+
+.card-body p {
+  text-align: center;
+}
+
+.card-img {
+  border-radius: 23px 23px 0 0;
+  width: -webkit-fill-available;
+}
+
+.carousel-btn {
+  min-width: 100%;
+  display: grid;
+  place-items: center;
+}
+.read-more {
+  color: #d2292d;
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
+.swiper-button-next::after {
+  color: #fff !important;
+}
+.swiper-button-prev {
+  color: #fff !important;
+}
+
+.carousel-btn button {
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+}
+
+/* .swiperDiv .css-1oqqzyl-MuiContainer-root {
+  position: relative;
+} */
+/* .swiperDiv .swiper {
+  position: initial;
+} */
+
+.swiperDiv .swiper-button-next:after {
+  position: absolute;
+  left: 25px;
+  bottom: 2rem;
+  font-size: 24px;
+}
+
+.swiperDiv .swiper-button-prev:after {
+  font-size: 25px;
+  bottom: 2rem;
+  position: absolute;
+  right: 25px;
+}
+@media (max-width: 1024px) {
+  .card-body h5 {
+    font-size: 18px;
+  }
+  .card-body p {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 472px) {
+  .carousel-cards {
+    width: 70%;
+    margin-left: 3.5rem;
+  }
+}
+
+@media (max-width: 425px) {
+  .card-body h5 {
+    font-size: 14px;
+  }
+  .read-more {
+    font-size: 13px;
+  }
+  .swiperDiv .swiper-button-next:after {
+    font-size: 25px;
+  }
+  .swiperDiv .swiper-button-prev:after {
+    font-size: 25px;
+    left: 1rem;
+  }
+  .card-1 {
+    margin-left: 3rem;
+  }
+  .carousel-btn button {
+    margin-bottom: 2rem;
+  }
+}

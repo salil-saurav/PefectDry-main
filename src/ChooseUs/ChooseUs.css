@@ -1,0 +1,80 @@
+.picture-service img {
+  border-radius: 64px 10px 10px 10px;
+  max-width: 78vh;
+}
+.service {
+  display: flex;
+  margin-top: 6rem;
+  margin-bottom: 5rem;
+}
+
+.about {
+  margin-left: 3rem;
+}
+.about h1 {
+  font-size: 65px;
+}
+.h3tick h3 {
+  font-size: 22px;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+.h3tick span {
+  margin-right: 1rem;
+}
+
+.vactor-square {
+  position: absolute;
+  transform: translateY(-3rem);
+  left: 86%;
+}
+
+.vactor-triangle {
+  position: absolute;
+  transform: translateY(28rem);
+  left: 77%;
+}
+
+.vactor-circle {
+  position: absolute;
+  transform: translateY(5rem);
+  left: 71%;
+}
+
+@media (max-width: 1215px) {
+  .about h1 {
+    font-size: 50px;
+  }
+  .h3tick h3 {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 983px) {
+  .h3tick h3 {
+    font-size: 17px;
+  }
+  .picture-service img {
+    max-width: 25rem !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .h3tick h3 {
+    margin: 6px 0px;
+  }
+}
+@media (max-width: 425px) {
+  .vactor-triangle,
+  .vactor-square,
+  .vactor-circle {
+    display: none;
+  }
+
+  .media-service h1 {
+    font-size: 40px;
+  }
+  .media-service .picture-service img {
+    margin-top: 1rem;
+  }
+}

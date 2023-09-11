@@ -1,0 +1,105 @@
+.card-b {
+  border: 1px solid #d2292d;
+  width: 87%;
+  height: 80%;
+  padding: 1.5rem 0 0;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+img.card-b-img {
+  max-width: fit-content;
+}
+.para {
+  font-size: 14px;
+}
+.swiperDivTwo {
+  height: 46rem;
+}
+
+/* Add this CSS in your stylesheet or component style */
+.swiper-pagination-bullet:not(:first-child):not(:nth-child(2)) {
+  display: none;
+}
+
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets
+  .swiper-pagination-bullet {
+  background-color: #d2292d;
+  width: 18px;
+  height: 18px;
+}
+.swiperDivTwo .swiper-slide-active {
+  transform: translateY(9rem) !important;
+  transition: transform 1s ease;
+}
+
+.swiperDivTwo .swiper-horizontal {
+  height: 36rem;
+  background-image: url("/src/assets/Images/Ellipse1.png"),
+    url("src/assets/Images/Ellipse2.png"),
+    url("src/assets/Images/Rectangle15.png"),
+    url("src/assets/Images/Rectangle14.png");
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+  background-position: 25% 4%, 65% 47%, 64% 22%, 31% 57%;
+  background-blend-mode: soft-light;
+}
+
+.swiperDivTwo .swiper-slide-active .card-b {
+  box-shadow: 0px 0px 57px rgba(210, 41, 45, 0.2);
+}
+
+/* .swiperDivTwo .css-1oqqzyl-MuiContainer-root {
+  position: relative;
+}
+.swiperDivTwo .swiper {
+  position: initial;
+} */
+
+.swiperDivTwo .swiper-button-next:after {
+  position: absolute;
+  bottom: 8rem;
+  font-size: 25px;
+  color: #000 !important;
+  font-weight: bolder;
+  left: 24px;
+}
+.swiperDivTwo .swiper-button-prev:after {
+  position: absolute;
+  font-size: 25px;
+  opacity: 0.3;
+  color: #000;
+  font-weight: bolder;
+  bottom: 7rem;
+  right: 24px;
+}
+
+@media (max-width: 786px) {
+  .swiperDivTwo .card-b {
+    margin-left: 2rem;
+    width: 81%;
+    min-height: 18rem;
+  }
+  .swiperDivTwo .swiper-slide-active {
+    transform: none !important  ;
+  }
+  .swiperDivTwo .swiper-horizontal {
+    background-image: none;
+  }
+  .swiperDivTwo .swiper-button-next:after {
+    top: -7rem;
+    right: 1rem;
+  }
+  .swiperDivTwo .swiper-button-prev:after {
+    top: -7rem;
+    left: 0;
+  }
+}
+
+@media (max-width: 375px) {
+  .swiperDivTwo .card-b {
+    margin-left: 38px;
+    width: 77%;
+  }
+}

@@ -1,0 +1,17 @@
+#map {
+  margin-top: 17rem;
+}
+
+@media (max-width: 786px) {
+  #map iframe {
+    height: 300px;
+  }
+  #map {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 425px) {
+  #map {
+  }
+}

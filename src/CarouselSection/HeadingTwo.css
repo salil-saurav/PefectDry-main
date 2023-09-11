@@ -1,0 +1,39 @@
+.headings h1 {
+  font-size: 65px;
+  text-align: center;
+  margin-top: 5rem;
+  font-family: Prata;
+  margin-bottom: 0;
+}
+.headings p {
+  margin-bottom: 3rem;
+  text-align: center;
+  padding: 0 16rem;
+  margin-top: -27px;
+  opacity: 0.7;
+  font-weight: 400;
+  color: #000;
+}
+@media (max-width: 1215px) {
+  .headings h1 {
+    font-size: 55px;
+  }
+}
+
+@media (max-width: 786px) {
+  .headings h1 {
+    font-size: 50px;
+  }
+  .headings p {
+    margin-top: 1rem;
+    padding: 0 2rem;
+  }
+}
+
+@media (max-width: 786px) {
+  .headings h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}

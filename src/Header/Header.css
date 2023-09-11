@@ -1,0 +1,142 @@
+.header {
+  margin-bottom: 2rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #ffffff;
+  opacity: 1;
+  z-index: 100;
+  padding: 1rem;
+  transition: transform 0.3s ease;
+  transform: translateY(0);
+}
+.header.hidden {
+  transform: translateY(-100%); /* Move the header off-screen when hidden */
+}
+
+.header .header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.contact-us {
+  display: flex;
+  align-items: center;
+}
+
+.mail-us {
+  border: 1px solid #d2292d !important;
+  font-size: 17px !important;
+  padding: 18px !important;
+  color: #d2292d !important;
+  border-radius: 45px !important;
+}
+.mail-us:hover {
+  color: #fff !important;
+  background-color: #d2292d !important;
+}
+
+.call-us {
+  background-color: #d2292d !important;
+  font-size: 17px !important;
+  padding: 18px !important;
+  color: #fff !important;
+  border-radius: 45px !important;
+}
+
+.call-us:hover {
+  color: #d2292d !important;
+  background-color: #fff !important;
+  border: 1px solid #d2292d !important;
+}
+.icon-stack {
+  display: none !important;
+}
+.MailIconDiv {
+  border: 4px solid #d2292d;
+  padding: 4px 9px;
+  border-radius: 50%;
+  height: 4rem;
+}
+.emailIcon {
+  fill: #d2292d !important;
+  font-size: 38px !important;
+  margin-top: 5px;
+}
+.MailIconDiv:hover {
+  background-color: #d2292d;
+}
+.MailIconDiv:hover .emailIcon {
+  fill: #fff !important;
+}
+
+.callIconDiv {
+  border: 4px solid #d2292d;
+  padding: 4px 9px;
+  border-radius: 50%;
+  margin-left: 3rem;
+  background-color: #d2292d;
+  height: 4rem;
+}
+
+.callIconDiv:hover .callIcon {
+  fill: #d2292d !important;
+}
+.callIconDiv:hover {
+  background-color: #fff;
+}
+
+.callIcon {
+  font-size: 38px !important;
+  fill: #fff !important;
+  margin-top: 5px;
+}
+
+.icon-stack {
+  display: flex;
+}
+
+@media (max-width: 820px) {
+  .contact-us-stack {
+    display: none !important;
+  }
+  .icon-stack {
+    display: flex !important;
+    justify-content: space-between !important
+      ;
+  }
+}
+@media (max-width: 786px) {
+  .header {
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width: 472px) {
+  .callIconDiv {
+    margin-left: 1rem;
+  }
+  .callIconDiv {
+    padding: 2px 8px;
+    height: 3rem;
+    border: 3px solid #d2292d;
+  }
+  .callIcon {
+    font-size: 25px !important;
+  }
+  .MailIconDiv {
+    padding: 3px 8px;
+    height: 3rem;
+    border: 3px solid #d2292d;
+  }
+  .emailIcon {
+    font-size: 25px !important;
+  }
+}
+
+@media (max-width: 390px) {
+  .home-logo a img {
+    max-width: 85%;
+  }
+}
