@@ -59,11 +59,11 @@ const SwiperCarousel = () => {
                   alt="card-one-image"
                 />
                 <div className="card-body ">
-                  <h5>Flood Damage Restroration Services In Auckland</h5>
+                  <h5>Lorem ipsum dolor, sit amet </h5>
                   <p>
-                    While New Zealand is a beautiful country, it can also be
-                    prone to some weather which can cause flooding and water
-                    damage.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente dolore quas provident repudiandae eius perspiciatis
+                    cumque totam
                   </p>
                   <a className="read-more" href="#">
                     Read More <span>&#8594;</span>
@@ -81,11 +81,11 @@ const SwiperCarousel = () => {
                   alt="card-one-image"
                 />
                 <div className="card-body ">
-                  <h5>Curtain Cleaning Specialists Auckland</h5>
+                  <h5>Lorem ipsum dolor, sit amet</h5>
                   <p>
-                    Perfect Dry is your local upholstery and curtain specialist
-                    Auckland having years of experience, knowledge, and a high
-                    success rate with customers.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente dolore quas provident repudiandae eius perspiciatis
+                    cumque totam
                   </p>
                   <a className="read-more" href="#">
                     Read More <span>&#8594;</span>
@@ -103,11 +103,11 @@ const SwiperCarousel = () => {
                   alt="card-one-image"
                 />
                 <div className="card-body">
-                  <h5>Commercial Carpet Cleaning Services Auckland</h5>
+                  <h5>Lorem ipsum dolor, sit amet</h5>
                   <p>
-                    Commercial rugs are often subjected to high traffic, leaving
-                    behind accumulated dirt, dust, grime, stubborn stains, and
-                    unpleasant odours.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente dolore quas provident repudiandae eius perspiciatis
+                    cumque totam
                   </p>
                   <a className="read-more" href="#">
                     Read More <span>&#8594;</span>
@@ -125,11 +125,11 @@ const SwiperCarousel = () => {
                   alt="card-one-image"
                 />
                 <div className="card-body ">
-                  <h5>Flood Damage Restroration Services In Auckland</h5>
+                  <h5>Lorem ipsum dolor, sit amet</h5>
                   <p>
-                    While New Zealand is a beautiful country, it can also be
-                    prone to some weather which can cause flooding and water
-                    damage.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente dolore quas provident repudiandae eius perspiciatis
+                    cumque totam
                   </p>
                   <a className="read-more" href="#">
                     Read More <span>&#8594;</span>
@@ -147,11 +147,11 @@ const SwiperCarousel = () => {
                   alt="card-one-image"
                 />
                 <div className="card-body ">
-                  <h5>Curtain Cleaning Specialists Auckland</h5>
+                  <h5>Lorem ipsum dolor, sit amet</h5>
                   <p>
-                    Perfect Dry is your local upholstery and curtain specialist
-                    Auckland having years of experience, knowledge, and a high
-                    success rate with customers.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente dolore quas provident repudiandae eius perspiciatis
+                    cumque totam
                   </p>
                   <a className="read-more" href="#">
                     Read More <span>&#8594;</span>
@@ -169,11 +169,11 @@ const SwiperCarousel = () => {
                   alt="card-one-image"
                 />
                 <div className="card-body">
-                  <h5>Commercial Carpet Cleaning Services Auckland</h5>
+                  <h5>Lorem ipsum dolor, sit amet</h5>
                   <p>
-                    Commercial rugs are often subjected to high traffic, leaving
-                    behind accumulated dirt, dust, grime, stubborn stains, and
-                    unpleasant odours.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente dolore quas provident repudiandae eius perspiciatis
+                    cumque totam
                   </p>
                   <a className="read-more" href="#">
                     Read More <span>&#8594;</span>

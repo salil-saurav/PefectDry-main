@@ -25,28 +25,28 @@ const Header: React.FC<HeaderProps> = ({ isVisible }) => {
           <Stack direction="row" spacing={3} className="contact-us-stack">
             <Chip
               className="mail-us"
-              label="info@perfectdry.co.nz"
+              label="abc@somemail.com"
               component="a"
-              href="mailto:info@perfectdry.co.nz"
+              href="mailto:abc@somemail.com"
               clickable
               variant="outlined"
             />
             <Chip
               className="call-us"
-              label="Call : 022 030 4004"
+              label="Call : 000 111 222"
               component="a"
-              href="tel:0220304004"
+              href="tel:000111222"
               clickable
             />
           </Stack>
           <div className="icon-stack">
             <div className="MailIconDiv">
-              <a href="mailto:info@perfectdry.co.nz">
+              <a href="mailto:abc@somemail.com">
                 <EmailOutlinedIcon className="emailIcon" />
               </a>
             </div>
             <div className="callIconDiv">
-              <a href="tel:0220304004">
+              <a href="tel:000111222">
                 <CallOutlinedIcon className="callIcon" />
               </a>
             </div>

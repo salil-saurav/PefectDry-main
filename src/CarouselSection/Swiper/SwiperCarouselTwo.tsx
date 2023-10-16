@@ -78,13 +78,14 @@ const SwiperCarouselTwo = () => {
               <div className="card-b carousel-cards">
                 <img className="card-b-img" src={One} alt="card-one-image" />
                 <div className="card-body">
-                  <h5>Wonderful Service</h5>
-                  <span>Charlotte Robinson</span>
+                  <h5>Lorem ipsum dolor</h5>
+                  <span>sit amet</span>
                   <p className="para">
-                    Thank you so much for a wonderful carpet cleaning service. I
-                    am so glad I called you before the housewarming party. Our
-                    carpeted floors have never looked so pretty. Wouldn’t trust
-                    anyone except you for the job. I will be back soon.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente dolore quas provident repudiandae eius perspiciatis
+                    cumque totam Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Sapiente dolore quas provident repudiandae
+                    eius perspiciatis cumque totam
                   </p>
                 </div>
               </div>
@@ -95,13 +96,14 @@ const SwiperCarouselTwo = () => {
               <div className="card-b carousel-cards">
                 <img className="card-b-img" src={Two} alt="card-one-image" />
                 <div className="card-body">
-                  <h5>Brilliant Results</h5>
-                  <span>Amelia Sugg</span>
+                  <h5>Lorem ipsum dolor</h5>
+                  <span>sit amet</span>
                   <p className="para">
-                    You guys are amazing! Thank you for the excellent job you
-                    did cleaning my large cotton rug. My sofa also looks as good
-                    as new. I would not hesitate to recommend you to friends and
-                    family as my home has never felt so neat and clean before...
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente dolore quas provident repudiandae eius perspiciatis
+                    cumque totam Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Sapiente dolore quas provident repudiandae
+                    eius perspiciatis cumque totam
                   </p>
                 </div>
               </div>
@@ -112,14 +114,14 @@ const SwiperCarouselTwo = () => {
               <div className="carousel-cards card-b">
                 <img className="card-b-img" src={Three} alt="card-one-image" />
                 <div className="card-body ">
-                  <h5>Nice & Fresh Smelling Carpets</h5>
-                  <span>Mia Elizabeth Barnett</span>
+                  <h5>Lorem ipsum dolor</h5>
+                  <span>sit amet</span>
                   <p className="para">
-                    Carpet cleaners at Perfect Dry did a very good job with my
-                    stained, soiled commercial carpets. After a grand office
-                    party last week, I was upset seeing alcohol & food stains
-                    all over the carpeted areas. But I am glad I found these
-                    guys when I did...
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente dolore quas provident repudiandae eius perspiciatis
+                    cumque totam Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Sapiente dolore quas provident repudiandae
+                    eius perspiciatis cumque totam
                   </p>
                 </div>
               </div>
@@ -130,13 +132,14 @@ const SwiperCarouselTwo = () => {
               <div className="card-b carousel-cards">
                 <img className="card-b-img" src={One} alt="card-one-image" />
                 <div className="card-body">
-                  <h5>Wonderful Service</h5>
-                  <span>Charlotte Robinson</span>
+                  <h5>Lorem ipsum dolor</h5>
+                  <span>sit amet</span>
                   <p className="para">
-                    Thank you so much for a wonderful carpet cleaning service. I
-                    am so glad I called you before the housewarming party. Our
-                    carpeted floors have never looked so pretty. Wouldn’t trust
-                    anyone except you for the job. I will be back soon.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente dolore quas provident repudiandae eius perspiciatis
+                    cumque totam Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Sapiente dolore quas provident repudiandae
+                    eius perspiciatis cumque totam
                   </p>
                 </div>
               </div>
@@ -147,13 +150,14 @@ const SwiperCarouselTwo = () => {
               <div className="card-b carousel-cards">
                 <img className="card-b-img" src={Two} alt="card-one-image" />
                 <div className="card-body">
-                  <h5>Brilliant Results</h5>
-                  <span>Amelia Sugg</span>
+                  <h5>Lorem ipsum dolor</h5>
+                  <span>sit amet</span>
                   <p className="para">
-                    You guys are amazing! Thank you for the excellent job you
-                    did cleaning my large cotton rug. My sofa also looks as good
-                    as new. I would not hesitate to recommend you to friends and
-                    family as my home has never felt so neat and clean before...
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente dolore quas provident repudiandae eius perspiciatis
+                    cumque totam Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Sapiente dolore quas provident repudiandae
+                    eius perspiciatis cumque totam
                   </p>
                 </div>
               </div>
@@ -164,14 +168,14 @@ const SwiperCarouselTwo = () => {
               <div className="carousel-cards card-b">
                 <img className="card-b-img" src={Three} alt="card-one-image" />
                 <div className="card-body ">
-                  <h5>Nice & Fresh Smelling Carpets</h5>
-                  <span>Mia Elizabeth Barnett</span>
+                  <h5>Lorem ipsum dolor</h5>
+                  <span>sit amet</span>
                   <p className="para">
-                    Carpet cleaners at Perfect Dry did a very good job with my
-                    stained, soiled commercial carpets. After a grand office
-                    party last week, I was upset seeing alcohol & food stains
-                    all over the carpeted areas. But I am glad I found these
-                    guys when I did...
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente dolore quas provident repudiandae eius perspiciatis
+                    cumque totam Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Sapiente dolore quas provident repudiandae
+                    eius perspiciatis cumque totam
                   </p>
                 </div>
               </div>

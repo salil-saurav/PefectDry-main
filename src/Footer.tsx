@@ -3,7 +3,7 @@ import "./Footer.css";
 
 const Footer = () => {
   return (
-    <footer style={{ backgroundColor: "#282828" }}>
+    <footer style={{ backgroundColor: "#282828", marginTop: "16rem" }}>
       <Container>
         <div className="footer-text">
           <h1>

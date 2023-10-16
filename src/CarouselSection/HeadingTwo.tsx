@@ -8,13 +8,13 @@ export default function Headings() {
         <span className="rectangle">
           <img src={Rectangle} alt="Vector" />
         </span>
-        <h1>Our Customer Stories</h1>
+        <h1>Lorem ipsum dolor sit amet consectetur adipisicing </h1>
         <span className="circle">
           <img src={Circle} alt="Vector" />
         </span>
         <p>
-          Learn how clients all across New Zealand use Perfect Dry to get a
-          clean looking property, rugs, and upholstery in no time.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed dolores
+          corrupti atque dicta minus eveniet saepe neque fugit obcaecati
         </p>
       </div>
     </>

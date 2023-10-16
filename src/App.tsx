@@ -12,7 +12,6 @@ import ChooseUs from "./ChooseUs/ChooseUs";
 import RedBanner from "./Banner/RedBanner";
 import Gallery from "./Gallery/Gallery";
 import SwiperCarouselTwo from "./CarouselSection/Swiper/SwiperCarouselTwo";
-import Map from "./Map";
 import Footer from "./Footer";
 
 function App() {
@@ -78,7 +77,6 @@ function App() {
             <RedBanner />
             <Gallery />
             <SwiperCarouselTwo />
-            <Map />
             <Footer />
           </div>
         )}

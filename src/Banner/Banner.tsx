@@ -35,13 +35,13 @@ export default function Banner() {
                 marginBottom: "0",
               }}
             >
-              Reliable Carpet and Upholstery Cleaning Service
+              Lorem ipsum dolor sit amet
             </h1>
             <p style={{ color: "#fff" }}>
-              Is Just A Call Away We are equipped to tackle the most stubborn
-              stains with 100% efficiency. We use eco-friendly, non-toxic and
-              safe cleaning solutions to deliver satisfactory results. Get $10
-              Off on Online Quote
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint
+              facilis maiores corporis possimus, voluptates voluptas ipsam
+              laboriosam placeat tenetur amet laudantium explicabo porro
+              suscipit nihil qui ipsa illum. Officiis, veniam!
             </p>
             <MainButton label="Request An Estimate Now" />
           </div>

@@ -33,29 +33,27 @@ export default function ChooseUs() {
             </h1>
 
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop
-              publishing software like Aldus PageMaker including versions of
-              Lorem Ipsum.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
+              numquam error deleniti dolores dolorum, sint animi earum
+              cupiditate, dolore perspiciatis dolorem illum. Blanditiis nobis
+              repellendus corporis molestias hic tempore maxime? Lorem ipsum
+              dolor sit amet consectetur adipisicing elit. Possimus numquam
+              error deleniti dolores dolorum, sint animi earum cupiditate,
+              dolore perspiciatis dolorem illum. Blanditiis nobis repellendus
+              corporis molestias hic tempore maxime?
             </p>
             <div className="h3tick">
               <h3>
-                <span style={{ color: "#d2292d" }}>&#10003; </span> Quality
-                Workmanship
+                <span style={{ color: "#d2292d" }}>&#10003; </span> dolore
+                perspiciatis dolorem
               </h3>
               <h3>
-                <span style={{ color: "#d2292d" }}>&#10003; </span> Free Stain
-                Removal
+                <span style={{ color: "#d2292d" }}>&#10003; </span> Blanditiis
+                nobis
               </h3>
               <h3>
-                <span style={{ color: "#d2292d" }}>&#10003; </span> Honest And
-                Transparent
+                <span style={{ color: "#d2292d" }}>&#10003; </span> Possimus
+                numquam
               </h3>
             </div>
 
@@ -92,16 +90,14 @@ export default function ChooseUs() {
               </span>
 
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled it to make a type specimen book. It has
-                survived not only five centuries, but also the leap into
-                electronic typesetting, remaining essentially unchanged. It was
-                popularised in the 1960s with the release of Letraset sheets
-                containing Lorem Ipsum passages, and more recently with desktop
-                publishing software like Aldus PageMaker including versions of
-                Lorem Ipsum.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Possimus numquam error deleniti dolores dolorum, sint animi
+                earum cupiditate, dolore perspiciatis dolorem illum. Blanditiis
+                nobis repellendus corporis molestias hic tempore maxime? Lorem
+                ipsum dolor sit amet consectetur adipisicing elit. Possimus
+                numquam error deleniti dolores dolorum, sint animi earum
+                cupiditate, dolore perspiciatis dolorem illum. Blanditiis nobis
+                repellendus corporis molestias hic tempore maxime?
               </p>
               <div className="h3tick">
                 <h3>

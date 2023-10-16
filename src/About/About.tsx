@@ -30,23 +30,20 @@ export default function About() {
                 marginBottom: "0",
               }}
             >
-              About Perfect Dry Services
+              Lorem ipsum dolor sit amet
             </h1>
 
             <p>
-              Professional Cleaners for Carpet, Rug, Couch Sofa Cleaning in
-              Auckland Carpets are a great addition to any home as they add
-              beauty, comfort, and warmth. However, they can easily attract
-              dirt, germs, and even dust mites, if not cleaned regularly. This
-              is why you need to invest in proper carpet cleaning services at
-              least twice a year.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi
+              ipsam totam aliquam, quae, mollitia tenetur sequi eum odit
+              voluptatibus aspernatur sit corporis. Mollitia repellat
+              perspiciatis corrupti quaerat, possimus fugiat! Enim.
             </p>
             <p>
-              We at Perfect Dry, provide professional residential carpet
-              cleaning services in Auckland that keep your carpets fresh and
-              clean. All our carpet cleaners are highly trained and well
-              equipped with the latest equipment and safe cleaning products to
-              ensure that you get the best results for your precious carpets.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi
+              ipsam totam aliquam, quae, mollitia tenetur sequi eum odit
+              voluptatibus aspernatur sit corporis. Mollitia repellat
+              perspiciatis corrupti quaerat, possimus fugiat! Enim.
             </p>
             <MainButton label="Request An Estimate Now" />
             <span className="vactor-2">
@@ -58,7 +55,7 @@ export default function About() {
         {/*       media view @ 786       */}
 
         <div className="media-service">
-          <h1>About Perfect Dry Services</h1>
+          <h1>Lorem ipsum dolor sit amet</h1>
 
           <div className="media-body">
             <div className="picture-service">
@@ -74,19 +71,16 @@ export default function About() {
               </span>
 
               <p>
-                Professional Cleaners for Carpet, Rug, Couch Sofa Cleaning in
-                Auckland Carpets are a great addition to any home as they add
-                beauty, comfort, and warmth. However, they can easily attract
-                dirt, germs, and even dust mites, if not cleaned regularly. This
-                is why you need to invest in proper carpet cleaning services at
-                least twice a year.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Commodi ipsam totam aliquam, quae, mollitia tenetur sequi eum
+                odit voluptatibus aspernatur sit corporis. Mollitia repellat
+                perspiciatis corrupti quaerat, possimus fugiat! Enim.
               </p>
               <p>
-                We at Perfect Dry, provide professional residential carpet
-                cleaning services in Auckland that keep your carpets fresh and
-                clean. All our carpet cleaners are highly trained and well
-                equipped with the latest equipment and safe cleaning products to
-                ensure that you get the best results for your precious carpets.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Commodi ipsam totam aliquam, quae, mollitia tenetur sequi eum
+                odit voluptatibus aspernatur sit corporis. Mollitia repellat
+                perspiciatis corrupti quaerat, possimus fugiat! Enim.
               </p>
               <MainButton label="Request An Estimate Now" />
               <span className="vactor-2">

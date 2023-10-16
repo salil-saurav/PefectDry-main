@@ -28,27 +28,27 @@ export default function Gallery() {
           <div className="image-gallery">
             <div className="image-div">
               <img src={One} alt="Gallery Image 1" />
-              <p className="hidden-p">Stain Removal & Flood Restoration</p>
+              <p className="hidden-p">Lorem ipsum, dolor sit amet</p>
             </div>
             <div className="image-div">
               <img src={Two} alt="Gallery Image 2" />
-              <p className="hidden-p">Stain Removal & Flood Restoration</p>
+              <p className="hidden-p">Lorem ipsum, dolor sit amet</p>
             </div>
             <div className="image-div">
               <img src={Three} alt="Gallery Image 3" />
-              <p className="hidden-p">Stain Removal & Flood Restoration</p>
+              <p className="hidden-p">Lorem ipsum, dolor sit amet</p>
             </div>
             <div className="image-div">
               <img src={Four} alt="Gallery Image 4" />
-              <p className="hidden-p">Stain Removal & Flood Restoration</p>
+              <p className="hidden-p">Lorem ipsum, dolor sit amet</p>
             </div>
             <div className="image-div">
               <img src={Five} alt="Gallery Image 5" />
-              <p className="hidden-p">Stain Removal & Flood Restoration</p>
+              <p className="hidden-p">Lorem ipsum, dolor sit amet</p>
             </div>
             <div className="image-div">
               <img src={Six} alt="Gallery Image 6" />
-              <p className="hidden-p">Stain Removal & Flood Restoration</p>
+              <p className="hidden-p">Lorem ipsum, dolor sit amet</p>
             </div>
           </div>
           <MainButton label="View More" />
@@ -67,37 +67,37 @@ export default function Gallery() {
             <SwiperSlide>
               <div className="image-div">
                 <img src={One} alt="Gallery Image 1" />
-                <p className="hidden-p">Stain Removal & Flood Restoration</p>
+                <p className="hidden-p">Lorem ipsum, dolor sit amet</p>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="image-div">
                 <img src={Two} alt="Gallery Image 2" />
-                <p className="hidden-p">Stain Removal & Flood Restoration</p>
+                <p className="hidden-p">Lorem ipsum, dolor sit amet</p>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="image-div">
                 <img src={Three} alt="Gallery Image 3" />
-                <p className="hidden-p">Stain Removal & Flood Restoration</p>
+                <p className="hidden-p">Lorem ipsum, dolor sit amet</p>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="image-div">
                 <img src={Four} alt="Gallery Image 4" />
-                <p className="hidden-p">Stain Removal & Flood Restoration</p>
+                <p className="hidden-p">Lorem ipsum, dolor sit amet</p>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="image-div">
                 <img src={Five} alt="Gallery Image 5" />
-                <p className="hidden-p">Stain Removal & Flood Restoration</p>
+                <p className="hidden-p">Lorem ipsum, dolor sit amet</p>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="image-div">
                 <img src={Six} alt="Gallery Image 6" />
-                <p className="hidden-p">Stain Removal & Flood Restoration</p>
+                <p className="hidden-p">Lorem ipsum, dolor sit amet</p>
               </div>
             </SwiperSlide>
             ╬

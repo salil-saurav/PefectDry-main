@@ -15,11 +15,11 @@ export default function RedBanner() {
                   fontWeight: "bolder",
                 }}
               >
-                Excellent Quality Carpet Cleaning Services
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
               </h2>
               <h3 style={{ color: "#fff", fontWeight: "normal" }}>
-                Glam your Carpet Today! Call us today for a free quotes Call :
-                022 030 4004
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde
+                amet iusto expedita exercitationem.
               </h3>
             </div>
             <div className="vertical-line"></div>
